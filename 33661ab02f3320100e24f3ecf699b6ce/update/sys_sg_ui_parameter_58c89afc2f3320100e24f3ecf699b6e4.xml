@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Loaner Request)">1cc89afc2f3320100e24f3ecf699b6e1</button>
+        <button_parent_table>x_564384_loaner_re_loaner_request</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>business_service</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Service</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>business_service</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 08:19:04</sys_created_on>
+        <sys_id>58c89afc2f3320100e24f3ecf699b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service</sys_name>
+        <sys_package display_value="Loaner Request" source="x_564384_loaner_re">33661ab02f3320100e24f3ecf699b6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">33661ab02f3320100e24f3ecf699b6ce</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_58c89afc2f3320100e24f3ecf699b6e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 08:19:04</sys_updated_on>
+        <table_name>x_564384_loaner_re_loaner_request</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=58c89afc2f3320100e24f3ecf699b6e4"/>
+</record_update>

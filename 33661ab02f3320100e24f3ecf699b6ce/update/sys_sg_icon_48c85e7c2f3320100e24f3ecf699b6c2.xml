@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2b9","FontColor":"#293e40","BackgroundColor":"#293e40","Name":"icon-Address-Book"}</icon>
+        <name>icon-Address-Book</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 08:19:03</sys_created_on>
+        <sys_id>48c85e7c2f3320100e24f3ecf699b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Address-Book</sys_name>
+        <sys_package display_value="Loaner Request" source="x_564384_loaner_re">33661ab02f3320100e24f3ecf699b6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">33661ab02f3320100e24f3ecf699b6ce</sys_scope>
+        <sys_update_name>sys_sg_icon_48c85e7c2f3320100e24f3ecf699b6c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 08:19:03</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
